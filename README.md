@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/LaurentRDC/LaurentRDC/master/images/header.svg"/>
 
-I work in research at a financial technology startup, with a focus on algorithmic trading in commodity markets.
+I work in research at a proprietary trading firm, with a focus on algorithmic trading in electricity markets.
 
 I'm also a member of the Haskell Foundation Technical Working Group. This working group discusses [community proposals](https://github.com/haskellfoundation/tech-proposals) based on their potential positive impact on the whole Haskell community.
 
