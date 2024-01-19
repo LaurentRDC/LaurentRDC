@@ -4,8 +4,6 @@
 
 I work in research at a proprietary trading firm, with a focus on algorithmic trading in electricity markets including physical real-time arbitrage and financial transmission rights (FTRs).
 
-I'm also a member of the Haskell Foundation Technical Working Group. This working group discusses [community proposals](https://github.com/haskellfoundation/tech-proposals) based on their potential positive impact on the whole Haskell community.
-
 I also have a Ph.D. in ultrafast condensed matter physics from the [Physics Department at McGill University](http://www.physics.mcgill.ca/). I worked on tracking ultrafast energy flow with ultrafast electron diffraction and diffuse scattering in strongly-correlated and functional materials with [Prof. Bradley Siwick](http://www.physics.mcgill.ca/siwicklab/). You can read my publications [here](https://laurentrdc.xyz/publications.html).
 
 [<img src="https://raw.githubusercontent.com/LaurentRDC/LaurentRDC/master/images/info.svg" alt="personal website" width="25" height="25"/>](https://laurentrdc.xyz) [<img src="https://raw.githubusercontent.com/LaurentRDC/LaurentRDC/master/images/linkedin.svg" alt="LinkedIn profile" width="25" height="25"/>](https://www.linkedin.com/in/laurent-p-ren%C3%A9-de-cotret-ph-d-296b38152) [<img src="https://raw.githubusercontent.com/LaurentRDC/LaurentRDC/master/images/mail.svg" alt="e-mail" width="25" height="25"/>](mailto:laurent.decotret@outlook.com)
