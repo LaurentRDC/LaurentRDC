@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/LaurentRDC/LaurentRDC/master/images/header.svg"/>
 
-I am the co-founder and CEO of [Powerweave](https://powerweave.io), a startup developing a platform to operate local electricity markets.
+I work in research at a proprietary trading firm, with a focus on algorithmic trading in electricity markets including physical real-time arbitrage, financial transmission rights (FTRs), and convergence-bidding products (e.g. virtual trades).
 
-Previously, I worked in research at a proprietary trading firm, with a focus on algorithmic trading in electricity markets including physical real-time arbitrage and financial transmission rights (FTRs).
+Previously, I was co-founder and CEO of [Powerweave](https://powerweave.io), a startup developing a platform to operate local electricity markets.
 
 I also have a Ph.D. in ultrafast condensed matter physics from the [Physics Department at McGill University](http://www.physics.mcgill.ca/). I worked on tracking ultrafast energy flow with ultrafast electron diffraction and diffuse scattering in strongly-correlated and functional materials with [Prof. Bradley Siwick](http://www.physics.mcgill.ca/siwicklab/). The images above are ultrafast electron diffraction patterns from crystal systems I studied. You can read my publications [here](https://laurentrdc.xyz/publications.html).
 
